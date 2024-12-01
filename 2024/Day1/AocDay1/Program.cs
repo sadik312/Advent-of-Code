@@ -14,7 +14,7 @@ namespace AocDay1
             List<int> List2 = new List<int>();
             
             // Read all lines from the input file
-           string[] lines = File.ReadAllLines("input.txt"); 
+           string[] lines = File.ReadAllLines("../input.txt"); 
            
            foreach (string line in lines)
                {
