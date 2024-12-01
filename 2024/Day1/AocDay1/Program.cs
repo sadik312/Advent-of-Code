@@ -50,6 +50,25 @@ namespace AocDay1
            // print lists to verify
            // Console.WriteLine("List1: " + string.Join(", ", List1));
            // Console.WriteLine("List2: " + string.Join(", ", List2));
+           
+           // Challenge 2: 
+           
+           // count the occurrences of each value
+            var l2Counts = List2.GroupBy(n => n).ToDictionary(g => g.Key, g => g.Count());
+            
+            // calculate similarityscore
+            int similarityScore = 0;
+
+            foreach (int number in List1)
+                {
+                    if(l2Counts.TryGetValue(number, out int count))
+                        {
+                            similarityScore += number * count;
+                        }
+                }
+            
+            Console.WriteLine(similarityScore);
+
         }
     }
 }
