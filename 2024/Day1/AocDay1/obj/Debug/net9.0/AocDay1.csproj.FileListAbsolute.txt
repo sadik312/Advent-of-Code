@@ -1,0 +1,15 @@
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\bin\Debug\net9.0\AocDay1.exe
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\bin\Debug\net9.0\AocDay1.deps.json
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\bin\Debug\net9.0\AocDay1.runtimeconfig.json
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\bin\Debug\net9.0\AocDay1.dll
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\bin\Debug\net9.0\AocDay1.pdb
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\obj\Debug\net9.0\AocDay1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\obj\Debug\net9.0\AocDay1.AssemblyInfoInputs.cache
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\obj\Debug\net9.0\AocDay1.AssemblyInfo.cs
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\obj\Debug\net9.0\AocDay1.csproj.CoreCompileInputs.cache
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\obj\Debug\net9.0\AocDay1.sourcelink.json
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\obj\Debug\net9.0\AocDay1.dll
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\obj\Debug\net9.0\refint\AocDay1.dll
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\obj\Debug\net9.0\AocDay1.pdb
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\obj\Debug\net9.0\AocDay1.genruntimeconfig.cache
+C:\Users\sadik\Documents\projects\Advent-of-Code\2024\Day1\AocDay1\obj\Debug\net9.0\ref\AocDay1.dll
